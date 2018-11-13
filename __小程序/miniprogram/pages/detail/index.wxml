@@ -1,0 +1,2 @@
+<!-- <rich-text nodes="{{article}}"></rich-text> -->
+<htmltowxml text="{{article}}" />

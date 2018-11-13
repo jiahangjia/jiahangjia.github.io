@@ -1,37 +1,32 @@
-## Welcome to GitHub Pages
+# 介绍
 
-You can use the [editor on GitHub](https://github.com/jiahangjia/jiahangjia.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+一款jekyll主题，简洁纯净，支持自适应
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+2.0版本，主题重构，留言板美化，过渡动画更柔顺，css布局兼容性更强，未引入任何框架，秒开页面
 
-### Markdown
+下面有具体的样式截图，或者你可以到我的博客查看
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[我的Blog预览](http://blog.tmaize.net/) 欢迎添加友链
 
-```markdown
-Syntax highlighted code block
+[github 地址](https://github.com/TMaize/tmaize-blog) 欢迎star
 
-# Header 1
-## Header 2
-### Header 3
+# 使用
 
-- Bulleted
-- List
+1. CNAME文件里的内容请换成你自己的域名(使用github的二级域名可以删除该文件)
 
-1. Numbered
-2. List
+2. 请删除_includes/footer.html里面的统计代码，删除（__site-generator版本-使用jekyll请删除，__小程序）目录
 
-**Bold** and _Italic_ and `Code` text
+3. 修改_data/links.json友情链接里的内容，如果可以，欢迎加上http://blog.tmaize.net
 
-[Link](url) and ![Image](src)
-```
+4. 适当修改_config.yml文件，具体作用请参考注释
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+5. 请参考我的文件放置规则，文章放在_posts目录，文章资源放在posts目录
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jiahangjia/jiahangjia.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+# 移动端截图
 
-### Support or Contact
+![mobile](readme/mobile.jpg)
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+# PC端截图
+
+![pc](readme/pc.jpg)
