@@ -18,8 +18,8 @@ siteMapPrefix: "http://blog.tmaize.net"
 permalink: /posts/:year/:month/:day/:title.html
 
 # 页面底部信息
-copyright: 2016
-record: "皖ICP备16016174号"
+copyright: 2018
+record: "GitHub"
 
 coderay:
   coderay_tab_width: 4
