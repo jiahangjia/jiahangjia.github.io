@@ -1,10 +1,10 @@
 encoding: utf-8
 
 # SEO相关信息
-title: TMaize Blog
-description: TMaize Blog
-keywords: TMaize,Blog,Java,Android,Html,Css,Js,算法
-author: TMaize
+title: Ming Wen
+description: Ming Wen Blog
+keywords: Ming Wen,Blog,Java,Android,Html,Css,Js,算法
+author: Ming Wen
 
 # 项目环境
 # 静态资源找不到，链接点进去不对时请检查下这里的配置
@@ -19,7 +19,7 @@ permalink: /posts/:year/:month/:day/:title.html
 
 # 页面底部信息
 copyright: 2018
-record: "GitHub"
+record: "Ming Wen"
 
 coderay:
   coderay_tab_width: 4
