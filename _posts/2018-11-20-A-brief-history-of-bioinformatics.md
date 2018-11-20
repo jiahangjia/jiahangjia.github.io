@@ -1,7 +1,7 @@
 ---
 layout: mypost
 title: 【翻译】A brief history of bioinformatics
-categories: [Translation]
+categories: [翻译]
 ---
 
 生物信息学简史
